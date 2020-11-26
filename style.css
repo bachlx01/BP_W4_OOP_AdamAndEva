@@ -1,0 +1,25 @@
+#main {
+    width: 600px;
+    height: 700px;
+    border: 3px solid lavender;
+}
+
+#apple {
+    height: 100px;
+    border: 1px solid lavender;
+    background-color: cornsilk;
+    padding: 5px;
+}
+#adam {
+    display: inline-block;
+    background-color: darkgray;
+    width: 48%;
+    padding: 5px;
+}
+#eva {
+    display: inline-block;
+    background-color: pink;
+    width: 48%;
+    padding: 5px;
+
+}
